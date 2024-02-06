@@ -275,12 +275,6 @@
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/react-libraries-2024.png"
         }
       ]
-    },
-    {
-      "title": "FOSDEM 2023",
-      "feedUrl": "https://archive.fosdem.org/2023/atom.xml",
-      "siteUrl": "https://fosdem.org/",
-      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
