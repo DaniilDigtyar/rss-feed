@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DaniilDigtyar.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-06T13:54:40.804Z</updated>
+    <updated>2024-02-06T14:00:18.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://DaniilDigtyar.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://DaniilDigtyar.github.io/rss-feed/feed.atom"/>
@@ -124,6 +124,16 @@
         <summary type="html"><![CDATA[As Artificial Intelligence evolves the computing paradigm, designers have an opportunity to craft more intuitive user interfaces. Maximillian Piras examines how the latest AI capabilities can reshape the future of human-computer interaction beyond conversation alone.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Maximillian Piras)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Torrekuako Tailerrak Gabonetan]]></title>
+        <id>https://teks.eus/?p=1044</id>
+        <link href="https://teks.eus/2024/02/01/torrekuako-tailerrak-gabonetan/"/>
+        <updated>2024-02-01T09:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Eguberrien bueltan, Gabonetan, Torrekuako Tailerrak egingo ditugu Orereta-Errenteriako Torrekuan. Teknologia izango da gaiaren muina, mugikor eta ordenagailuen erabilera, scratch programazioa eta pasahitzak, besteak beste. Abenduaren 26an eta 27an, 10:00etatik 13:00etara bitarte, ‘Scratch programazioa familian’ eskainiko dugu. Tailer honetan, haurrek, pertsona heldu batekin batera, programazioaren hastapenak ikasi ahal izango dituzte. Bertaratzeko, ez da programazioaren inguruko aurre ezagutza berezirik beharko. […]]]></summary>
+        <author>
+            <name>Silvia</name>
         </author>
     </entry>
     <entry>

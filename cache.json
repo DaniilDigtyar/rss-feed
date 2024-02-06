@@ -275,6 +275,23 @@
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/react-libraries-2024.png"
         }
       ]
+    },
+    {
+      "title": "Teks",
+      "feedUrl": "https://teks.eus/feed/",
+      "siteUrl": "https://teks.eus",
+      "articles": [
+        {
+          "id": "https://teks.eus/?p=1044",
+          "author": "Silvia",
+          "description": "Eguberrien bueltan, Gabonetan, Torrekuako Tailerrak egingo ditugu Orereta-Errenteriako Torrekuan. Teknologia izango da gaiaren muina, mugikor eta ordenagailuen erabilera, scratch programazioa eta pasahitzak, besteak beste. Abenduaren 26an eta 27an, 10:00etatik 13:00etara bitarte, ‘Scratch programazioa familian’ eskainiko dugu. Tailer honetan, haurrek, pertsona heldu batekin batera, programazioaren hastapenak ikasi ahal izango dituzte. Bertaratzeko, ez da programazioaren inguruko aurre ezagutza berezirik beharko. […]",
+          "link": "https://teks.eus/2024/02/01/torrekuako-tailerrak-gabonetan/",
+          "publishedOn": "2024-02-01T09:48:44.000Z",
+          "wordCount": 898,
+          "title": "Torrekuako Tailerrak Gabonetan",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
