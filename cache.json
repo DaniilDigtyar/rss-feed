@@ -151,21 +151,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/top-frontend-tools-2023/top-frontend-tools-2023.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
-          "author": "hello@smashingmagazine.com (Atila Fassina)",
-          "description": "Are you ready for a little exercise of pulling a framework apart and putting the pieces back together? In this article, Atila Fassina explains how meta-frameworks have evolved around core libraries in their own unique ways.",
-          "link": "https://smashingmagazine.com/2024/01/solidstart-different-breed-meta-framework/",
-          "publishedOn": "2024-01-08T10:00:00.000Z",
-          "wordCount": 4215,
-          "title": "SolidStart: A Different Breed Of Meta-Framework",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/solidstart-different-breed-meta-framework/solidstart-different-breed-meta-framework.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/solidstart-different-breed-meta-framework/solidstart-different-breed-meta-framework.jpg"
         }
       ]
     },
@@ -174,6 +159,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/master-react-by-building-25-projects/",
+          "author": "Beau Carnes",
+          "description": "React is one of the most popular frontend JavaScript frameworks.  We just posted a course on the freeCodeCamp.org YouTube channel that will teach you how to build twenty-five different projects using React. Each project is designed to challenge and enhance your understanding of React's capabilities. Sangam Mukherjee developed this",
+          "link": "https://www.freecodecamp.org/news/master-react-by-building-25-projects/",
+          "publishedOn": "2024-02-06T17:00:58.000Z",
+          "wordCount": 1020,
+          "title": "Master React by Building 25 Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/react25a.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-spring-boot-and-spring-data-jpa/",
+          "author": "Beau Carnes",
+          "description": "By mastering Spring Boot and Spring Data JPA, you'll be equipped to build efficient, scalable, and secure applications with ease, making you a valuable asset in the job market and a more effective developer. We just published a comprehensive video course on the freeCodeCamp.org YouTube channel that teaches Spring Boot",
+          "link": "https://www.freecodecamp.org/news/learn-spring-boot-and-spring-data-jpa/",
+          "publishedOn": "2024-02-06T16:05:20.000Z",
+          "wordCount": 987,
+          "title": "Learn Spring Boot and Spring Data JPA",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/springboot.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-use-strict-mode-in-javascript/",
           "author": "Benjamin Semah",
