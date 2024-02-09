@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "What could we learn from entry-level students in front-end web development? As seasoned professionals, you might think you’ve seen it all, but the truth is that the newcomers are asking the most intriguing questions and making connections that those of us who have spent years on the front end may have never considered.",
+          "link": "https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/",
+          "publishedOn": "2024-02-08T13:00:00.000Z",
+          "wordCount": 4317,
+          "title": "Frequently Heard In My Beginning Front-End Web Development Class",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/frequently-heard-beginning-front-end-web-development-class/frequently-heard-beginning-front-end-web-development-class.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/frequently-heard-beginning-front-end-web-development-class/frequently-heard-beginning-front-end-web-development-class.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/02/web-development-getting-too-complex/",
           "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "description": "An overwhelming number of frameworks and tooling available today gives the impression that web development has gotten perhaps too complex. Juan Diego Rodríguez explores if web development really is that complex and, most importantly, how we can prevent it from getting even more difficult than we already perceive it to be.",
@@ -174,6 +189,76 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/",
+          "author": "Md. Fahim Bin Amin",
+          "description": "Kaggle [https://www.kaggle.com/]is a popular data science-based competition platform that has a large online community of data scientists and machine learning engineers. The platform contains a ton of datasets and notebooks that you can use to learn and practice your data science and machine learning skills. They even have competitions you",
+          "link": "https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/",
+          "publishedOn": "2024-02-08T19:39:00.000Z",
+          "wordCount": 2186,
+          "title": "How to Download a Kaggle Dataset Directly to a Google Colab Notebook",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Kaggle-to-Colab.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/golang-for-beginners/",
+          "author": "Adeola Ajiboso",
+          "description": "The Go programming language, also known as Golang, was developed at Google in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. It was open-sourced in 2009.  Go is expressive, concise, clean, and efficient. The language is statically typed with syntax similar to the C programming language.  Go",
+          "link": "https://www.freecodecamp.org/news/golang-for-beginners/",
+          "publishedOn": "2024-02-08T17:12:33.000Z",
+          "wordCount": 4061,
+          "title": "How to Learn Golang – A Beginner's Guide to the Basics",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-asp-net-core-by-building-an-auction-application/",
+          "author": "Beau Carnes",
+          "description": "ASP.NET course can be used to create robust, scalable, and dynamic applications. We just posted a course on the freeCodeCamp.org YouTube channel that is an opportunity for learners to dive deep into the world of fullstack development using ASP.NET Core. Alen Omeri designed the course to guide you through the",
+          "link": "https://www.freecodecamp.org/news/learn-asp-net-core-by-building-an-auction-application/",
+          "publishedOn": "2024-02-08T16:22:49.000Z",
+          "wordCount": 1153,
+          "title": "Learn ASP.NET Core by Building an Auction Application",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/aspnet.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/drawing-on-a-canvas-element-with-javascript/",
+          "author": "Hunor Márton Borbély",
+          "description": "There are many ways to code graphics for the web. You can create art with CSS [https://codepen.io/search/pens?q=css+art]. You can code an SVG [/news/svg-tutorial-learn-to-code-images/] image as part of an HTML file. Or you can generate graphics from JavaScript using the Canvas API. In this article, we'll explore how to use JavaScript",
+          "link": "https://www.freecodecamp.org/news/drawing-on-a-canvas-element-with-javascript/",
+          "publishedOn": "2024-02-08T00:08:11.000Z",
+          "wordCount": 1786,
+          "title": "How to Draw with JavaScript on an HTML Canvas Element – Beginner's Guide",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Gorillas-Keynote.001-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/python-back-end-development-the-beginners-guide/",
+          "author": "Vahe Aslanyan",
+          "description": "Are you ready to dive into the world of Python back-end development? Whether you’re a beginner looking to learn the basics or an experienced developer wanting to upgrade your skills, this handbook is your ultimate guide. Imagine being able to build full-featured web applications, handle large-scale data analysis, and create",
+          "link": "https://www.freecodecamp.org/news/python-back-end-development-the-beginners-guide/",
+          "publishedOn": "2024-02-08T00:04:17.000Z",
+          "wordCount": 15352,
+          "title": "Python Back-End Development – Handbook for Beginners",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Python-Backend-Development-Cover--1-.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/web-sensitivity-how-to-design-accessible-animations/",
+          "author": "Elizabeth  Meshioye",
+          "description": "As web developers, we love a good animation, right? But let's be honest, sometimes we get caught up in the wow factor and forget that our websites exist for real people with diverse needs.  One hidden hurdle for some users is motion sensitivity. It might not be something we",
+          "link": "https://www.freecodecamp.org/news/web-sensitivity-how-to-design-accessible-animations/",
+          "publishedOn": "2024-02-07T21:51:54.000Z",
+          "wordCount": 2456,
+          "title": "What is Motion Sensitivity? How to Design Accessible Web Animations",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/pexels-pixabay-315938-1.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-work-with-the-console-object-in-javascript/",
+          "author": "Jessica Wilkins",
+          "description": "When you run into errors inside your code, it's important to know how to debug and find the source of the problem. The console object is a powerful tool that can help you with this. In this article, we will explore the console object and the variety of methods that",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-the-console-object-in-javascript/",
+          "publishedOn": "2024-02-07T21:29:48.000Z",
+          "wordCount": 1317,
+          "title": "How to Work with the Console Object in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/computer-on-desk.jpg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/destructuring-in-javascript/",
           "author": "Sahil Mahapatra",

@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DaniilDigtyar.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-08T01:09:22.176Z</updated>
+    <updated>2024-02-09T01:09:36.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://DaniilDigtyar.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://DaniilDigtyar.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Download a Kaggle Dataset Directly to a Google Colab Notebook]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/"/>
+        <updated>2024-02-08T19:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Kaggle [https://www.kaggle.com/]is a popular data science-based competition platform that has a large online community of data scientists and machine learning engineers. The platform contains a ton of datasets and notebooks that you can use to learn and practice your data science and machine learning skills. They even have competitions you]]></summary>
+        <author>
+            <name>Md. Fahim Bin Amin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Golang – A Beginner's Guide to the Basics]]></title>
+        <id>https://www.freecodecamp.org/news/golang-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/golang-for-beginners/"/>
+        <updated>2024-02-08T17:12:33.000Z</updated>
+        <summary type="html"><![CDATA[The Go programming language, also known as Golang, was developed at Google in 2007 by Robert Griesemer, Rob Pike, and Ken Thompson. It was open-sourced in 2009.  Go is expressive, concise, clean, and efficient. The language is statically typed with syntax similar to the C programming language.  Go]]></summary>
+        <author>
+            <name>Adeola Ajiboso</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn ASP.NET Core by Building an Auction Application]]></title>
+        <id>https://www.freecodecamp.org/news/learn-asp-net-core-by-building-an-auction-application/</id>
+        <link href="https://www.freecodecamp.org/news/learn-asp-net-core-by-building-an-auction-application/"/>
+        <updated>2024-02-08T16:22:49.000Z</updated>
+        <summary type="html"><![CDATA[ASP.NET course can be used to create robust, scalable, and dynamic applications. We just posted a course on the freeCodeCamp.org YouTube channel that is an opportunity for learners to dive deep into the world of fullstack development using ASP.NET Core. Alen Omeri designed the course to guide you through the]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Frequently Heard In My Beginning Front-End Web Development Class]]></title>
+        <id>https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/</id>
+        <link href="https://smashingmagazine.com/2024/02/frequently-heard-beginning-front-end-web-development-class/"/>
+        <updated>2024-02-08T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What could we learn from entry-level students in front-end web development? As seasoned professionals, you might think you’ve seen it all, but the truth is that the newcomers are asking the most intriguing questions and making connections that those of us who have spent years on the front end may have never considered.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Geoff Graham)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Draw with JavaScript on an HTML Canvas Element – Beginner's Guide]]></title>
+        <id>https://www.freecodecamp.org/news/drawing-on-a-canvas-element-with-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/drawing-on-a-canvas-element-with-javascript/"/>
+        <updated>2024-02-08T00:08:11.000Z</updated>
+        <summary type="html"><![CDATA[There are many ways to code graphics for the web. You can create art with CSS [https://codepen.io/search/pens?q=css+art]. You can code an SVG [/news/svg-tutorial-learn-to-code-images/] image as part of an HTML file. Or you can generate graphics from JavaScript using the Canvas API. In this article, we'll explore how to use JavaScript]]></summary>
+        <author>
+            <name>Hunor Márton Borbély</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python Back-End Development – Handbook for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/python-back-end-development-the-beginners-guide/</id>
+        <link href="https://www.freecodecamp.org/news/python-back-end-development-the-beginners-guide/"/>
+        <updated>2024-02-08T00:04:17.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready to dive into the world of Python back-end development? Whether you’re a beginner looking to learn the basics or an experienced developer wanting to upgrade your skills, this handbook is your ultimate guide. Imagine being able to build full-featured web applications, handle large-scale data analysis, and create]]></summary>
+        <author>
+            <name>Vahe Aslanyan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Motion Sensitivity? How to Design Accessible Web Animations]]></title>
+        <id>https://www.freecodecamp.org/news/web-sensitivity-how-to-design-accessible-animations/</id>
+        <link href="https://www.freecodecamp.org/news/web-sensitivity-how-to-design-accessible-animations/"/>
+        <updated>2024-02-07T21:51:54.000Z</updated>
+        <summary type="html"><![CDATA[As web developers, we love a good animation, right? But let's be honest, sometimes we get caught up in the wow factor and forget that our websites exist for real people with diverse needs.  One hidden hurdle for some users is motion sensitivity. It might not be something we]]></summary>
+        <author>
+            <name>Elizabeth  Meshioye</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with the Console Object in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-work-with-the-console-object-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-the-console-object-in-javascript/"/>
+        <updated>2024-02-07T21:29:48.000Z</updated>
+        <summary type="html"><![CDATA[When you run into errors inside your code, it's important to know how to debug and find the source of the problem. The console object is a powerful tool that can help you with this. In this article, we will explore the console object and the variety of methods that]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Destructuring Works in JavaScript – Explained with Code Examples]]></title>
         <id>https://www.freecodecamp.org/news/destructuring-in-javascript/</id>
