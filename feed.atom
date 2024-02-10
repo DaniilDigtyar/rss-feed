@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DaniilDigtyar.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-09T01:09:36.879Z</updated>
+    <updated>2024-02-10T01:08:18.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://DaniilDigtyar.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://DaniilDigtyar.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Podcast: AI Engineering with Engineer + Scrimba CEO Per Borgan]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-ai-engineering-scrimba-ceo-per-borgan/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-ai-engineering-scrimba-ceo-per-borgan/"/>
+        <updated>2024-02-09T17:28:56.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Per Borgen about the burgeoning field of AI Engineering, and his work in interactive developer education. Per is the co-founder and CEO of Scrimba and is a software engineer. Be sure to follow The freeCodeCamp podcast in your favorite podcast app.]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Search Form in Google Sheets – Google Apps Script Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/create-search-form-in-google-sheets/</id>
+        <link href="https://www.freecodecamp.org/news/create-search-form-in-google-sheets/"/>
+        <updated>2024-02-09T15:39:47.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever struggled with navigating a massive spreadsheet? You can do away with the endless scrolling and unlock the power of targeted data retrieval with a custom search form using Google Apps Script.  In this hands-on guide, we'll craft a search tool that seamlessly integrates with your spreadsheet,]]></summary>
+        <author>
+            <name>Nibesh Khadka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Data Types in Python – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-data-types-in-python/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-data-types-in-python/"/>
+        <updated>2024-02-09T15:15:55.000Z</updated>
+        <summary type="html"><![CDATA[In Python, a data type communicates with the interpreter about how the programmer intends to use the data and information stored. The classification of data specifies the type of value a variable can hold. In Python programming, you don't need to explicitly declare the data type of your variable. Instead,]]></summary>
+        <author>
+            <name>Kamaldeen Lawal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Draw Radar Charts In Web]]></title>
+        <id>https://smashingmagazine.com/2024/02/draw-radar-charts-web/</id>
+        <link href="https://smashingmagazine.com/2024/02/draw-radar-charts-web/"/>
+        <updated>2024-02-09T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A radar chart — also commonly called a spider chart — is yet another way to visualize data and make connections. Radar charts are inherently geometric, making them both a perfect fit and fun to make with CSS, thanks to the `polygon()` function. Read along as Preethi Sam demonstrates the process and sprinkles it with a pinch of JavaScript to make a handy, reusable component.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Preethi Sam)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Animations in React 18]]></title>
+        <id>https://www.freecodecamp.org/news/create-animations-in-react/</id>
+        <link href="https://www.freecodecamp.org/news/create-animations-in-react/"/>
+        <updated>2024-02-08T23:51:27.000Z</updated>
+        <summary type="html"><![CDATA[We are surrounded by gorgeous web applications. Sometimes I catch myself admiring visual effects on some website and wondering how they were made.  Well today I'll show you how you can create awesome CSS animations in React 18. As always, we'll work on the real world example but we'll]]></summary>
+        <author>
+            <name>Matéush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Spread and Rest Operators – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-spread-and-rest-operators/"/>
+        <updated>2024-02-08T23:27:05.000Z</updated>
+        <summary type="html"><![CDATA[In modern JavaScript, the spread and rest operators are indispensable tools for simplifying array manipulation and function parameters. These operators provide elegant solutions for tasks like array expansion and function arguments handling.  Let's dive deeper into understanding how they work so you can leverage their power. You can get]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Download a Kaggle Dataset Directly to a Google Colab Notebook]]></title>
         <id>https://www.freecodecamp.org/news/how-to-download-kaggle-dataset-to-google-colab/</id>
