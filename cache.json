@@ -205,6 +205,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/javascript-in-the-browser-dom-and-events/",
+          "author": "Samyak Jain",
+          "description": "In this in-depth tutorial, you'll learn all about the Document Object Model, or DOM for short. As a web developer, understanding the DOM is fundamental for interacting with web browsers and creating dynamic web applications.  Throughout this guide, we will explore the DOM's hierarchical tree structure, essential properties, and",
+          "link": "https://www.freecodecamp.org/news/javascript-in-the-browser-dom-and-events/",
+          "publishedOn": "2024-02-15T20:07:14.000Z",
+          "wordCount": 7159,
+          "title": "JavaScript in the Browser – How the Document Object Model (DOM) and Events Work",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/JavaScript-in-the-Browser-with-Photo-Cover.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-sveltekit-full-course/",
+          "author": "Beau Carnes",
+          "description": "SvelteKit is the next evolution of Svelte, a modern JavaScript framework that compiles your code to highly efficient, vanilla JavaScript at build time. It's a great framework to learn for developers seeking to hone their skills or dive into modern web frameworks. We just posted a course on the freeCodeCamp.org",
+          "link": "https://www.freecodecamp.org/news/learn-sveltekit-full-course/",
+          "publishedOn": "2024-02-15T18:47:48.000Z",
+          "wordCount": 1113,
+          "title": "Learn SvelteKit in 2 hours",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/sveltekitfull.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/art-of-coding-with-p5js/",
+          "author": "Beau Carnes",
+          "description": "p5.js is a JavaScript library that's transforming the way artists and designers approach make art with code. If you're intrigued by the intersection of art and programming, freeCodeCamp's YouTube course on p5.js is an ideal starting point.  Patt Vira created this course. She loves making art with code and",
+          "link": "https://www.freecodecamp.org/news/art-of-coding-with-p5js/",
+          "publishedOn": "2024-02-15T18:39:36.000Z",
+          "wordCount": 1091,
+          "title": "Learn how to Make Art with Code – p5.js Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/p5js.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-draw-a-gorilla-with-javascript-on-html-canvas/",
+          "author": "Hunor Márton Borbély",
+          "description": "Drawing from code can be fun for many reasons. You can generate art that follows a certain logic. You can create animations by moving only parts of an image. And you can even build up a whole game as I covered in this tutorial [/news/gorillas-game-in-javascript/]. In my last article, we",
+          "link": "https://www.freecodecamp.org/news/how-to-draw-a-gorilla-with-javascript-on-html-canvas/",
+          "publishedOn": "2024-02-15T16:30:12.000Z",
+          "wordCount": 2570,
+          "title": "How to Draw with JavaScript on an HTML Canvas Element – Gorilla Example",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Thumbnail.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/chrome-devtools/",
+          "author": "Ophy Boamah",
+          "description": "As a web developer, there are many tools out there – in addition to your code editor – that can make you more efficient.  It doesn't matter if you're just starting out or have been coding for years. Knowing how to effectively use Developer Tools (DevTools for short) can",
+          "link": "https://www.freecodecamp.org/news/chrome-devtools/",
+          "publishedOn": "2024-02-15T16:12:02.000Z",
+          "wordCount": 2752,
+          "title": "How to Use Chrome DevTools – Simple Strategies for Smarter Web Development",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/ChromeDevTools.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/app-directory-nextjs/",
+          "author": "Quincy Oghenetejiri Ukumakube",
+          "description": "When you're building a project using the latest version of Next.js, you'll be prompted to select between using the app/ directory or the pages/ directory. The  app/ directory is now the recommended way of building apps in Next.js. In this article, you'll learn how to maximize the potential of",
+          "link": "https://www.freecodecamp.org/news/app-directory-nextjs/",
+          "publishedOn": "2024-02-15T00:52:55.000Z",
+          "wordCount": 2726,
+          "title": "How to Use the App Directory in Next.js",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Freecodecamp-Banner-2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-map-method/",
+          "author": "Sahil Mahapatra",
+          "description": "JavaScript's map method, introduced in ECMAScript 5, is a fundamental tool for array manipulation and transformation. This method is versatile and simple, and has become a staple in modern JavaScript programming.  In this article, we'll explore the map method's syntax and its wide array of applications, ranging from basic",
+          "link": "https://www.freecodecamp.org/news/javascript-map-method/",
+          "publishedOn": "2024-02-15T00:50:30.000Z",
+          "wordCount": 1600,
+          "title": "JavaScript Map Method – Syntax and Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-8-.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-create-custom-react-hooks/",
           "author": "Matéush",
           "description": "If you have been working with React, I bet you've had the opportunity to use hooks. But have you ever tried to create your own hook?  Today I will help you create your first custom hook and explain how they can improve your codebase. Why Create Custom Hooks? You",
@@ -223,6 +293,16 @@
           "wordCount": 1020,
           "title": "Dive into Backend Development by Building a CRUD API with Node and MongoDB",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/crudtutroail.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/golang-developer-roadmap/",
+          "author": "Shubham Chadokar",
+          "description": "The Go programming language – also known as Golang – is now almost 15 years old. And it's become a popular choice for web development and microservices thanks to its performance and efficient resource utilisation.  Go jobs are also quite well-paid. As per the Glassdoor report [https://www.glassdoor.com/Salaries/golang-developer-salary-SRCH_KO0,16.htm?countryPickerRedirect=true] , the",
+          "link": "https://www.freecodecamp.org/news/golang-developer-roadmap/",
+          "publishedOn": "2024-02-14T14:01:00.000Z",
+          "wordCount": 2006,
+          "title": "How to Get Started with Golang – a Developer Roadmap",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/go-roadmap-fcc.png"
         },
         {
           "id": "https://www.freecodecamp.org/news/the-javascript-promises-handbook/",
