@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DaniilDigtyar.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-21T01:10:41.416Z</updated>
+    <updated>2024-02-22T01:09:58.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://DaniilDigtyar.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://DaniilDigtyar.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Azure AI Fundamentals Certification (AI-900) 2024 UPDATE – Pass the Exam With This Free 4 Hour Course]]></title>
+        <id>https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/</id>
+        <link href="https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/"/>
+        <updated>2024-02-21T15:02:00.000Z</updated>
+        <summary type="html"><![CDATA[The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. The certification has recently been updated for 2024 and I've released an updated course to teach you how to pass the exam. In the last decade companies have been collecting]]></summary>
+        <author>
+            <name>Andrew Brown</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Type Aliases work in TypeScript – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-typescript-type-aliases-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-typescript-type-aliases-work/"/>
+        <updated>2024-02-21T14:14:40.000Z</updated>
+        <summary type="html"><![CDATA[One of TypeScript's powerful features is type aliases, which allow developers to create custom names for types, enhancing code readability and maintainability. In this article, we'll explore TypeScript type aliases through examples. Table of Contents  * TypeScript Type Aliases  * Examples  * Conclusion What are Type Aliases]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Use Node Version Manager In Your React Projects]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-use-nvm-in-react-projects/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-nvm-in-react-projects/"/>
+        <updated>2024-02-21T13:51:21.000Z</updated>
+        <summary type="html"><![CDATA[In this guide,  you'll learn how to effectively manage multiple Node versions for different projects using Node Version Manager (NVM). Whether you're developing React, Angular, Vue.js, or Node applications, you can always use NVM to set up the project and tailor it down to a specific Node version. Prerequisites Before]]></summary>
+        <author>
+            <name>Matéush</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Debug Coding Problems When Building Your Own Projects]]></title>
+        <id>https://www.freecodecamp.org/news/debug-coding-problems-in-your-projects/</id>
+        <link href="https://www.freecodecamp.org/news/debug-coding-problems-in-your-projects/"/>
+        <updated>2024-02-20T21:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Ah, the joy of coding! There you are, cruising through your project, when suddenly – bam! – you hit a bug. It's like hitting a wall in a maze. But fear not, fellow coder, for I bring you the trusty map to navigate the treacherous bug-infested waters of programming. Whether]]></summary>
+        <author>
+            <name>Chris Blakely</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use LocalStorage in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/</id>
+        <link href="https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/"/>
+        <updated>2024-02-20T21:37:46.000Z</updated>
+        <summary type="html"><![CDATA[In modern web development, having a way to persist data helps developers improve performance and create a better user experience. And using local storage is an effective way of persisting data in an application. In this article, you will learn what local storage is and how to use it in]]></summary>
+        <author>
+            <name>Benjamin Semah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Types Work in TypeScript – Explained with JavaScript + TypeScript Code]]></title>
+        <id>https://www.freecodecamp.org/news/basic-typescript-types/</id>
+        <link href="https://www.freecodecamp.org/news/basic-typescript-types/"/>
+        <updated>2024-02-20T21:05:51.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript is a superset of JavaScript that introduces static typing to JavaScript. TypeScript's enhanced type safety and code maintainability empower developers to write code more confidently. A fundamental aspect of TypeScript's static typing system is its support for basic types. These provide a foundation for defining the shape and behavior]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn Python Basics – A Guide for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/learn-python-basics/</id>
@@ -834,16 +894,6 @@
         <summary type="html"><![CDATA[Taking inspiration from shadows, author Yair Even Or creates the same sort of thing, only with a blurring effect in place of the shadow. Read along for a step-by-step explanation of how it comes together using a combination of masks, gradients, and the good ol’ `backdrop-filter` property.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Yair Even Or)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AI Dilemma In Graphic Design: Steering Towards Excellence In Typography And Beyond]]></title>
-        <id>https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/</id>
-        <link href="https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/"/>
-        <updated>2024-01-23T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI promises a major upheaval in typography, with designers finding themselves navigating both opportunities and challenges. How will it impact quality, design roles, and our use of type in the future? As we explore this new frontier, we realise that we are at a juncture as significant as Gutenberg’s press, set to redefine how we interact with text and visual communication.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Filip Paldia &amp; Jamie Clarke)</name>
         </author>
     </entry>
 </feed>

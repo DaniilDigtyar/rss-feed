@@ -211,21 +211,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/css-blurry-shimmer-effect/css-blurry-shimmer-effect.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/",
-          "author": "hello@smashingmagazine.com (Filip Paldia & Jamie Clarke)",
-          "description": "AI promises a major upheaval in typography, with designers finding themselves navigating both opportunities and challenges. How will it impact quality, design roles, and our use of type in the future? As we explore this new frontier, we realise that we are at a juncture as significant as Gutenberg’s press, set to redefine how we interact with text and visual communication.",
-          "link": "https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/",
-          "publishedOn": "2024-01-23T13:00:00.000Z",
-          "wordCount": 4496,
-          "title": "The AI Dilemma In Graphic Design: Steering Towards Excellence In Typography And Beyond",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/ai-dilemma-graphic-design-typography/ai-dilemma-graphic-design-typography.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/ai-dilemma-graphic-design-typography/ai-dilemma-graphic-design-typography.jpg"
         }
       ]
     },
@@ -234,6 +219,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
+          "author": "Andrew Brown",
+          "description": "The Azure AI Fundamentals Certification is for those seeking a Machine Learning role such as AI Engineer or Data Scientist. The certification has recently been updated for 2024 and I've released an updated course to teach you how to pass the exam. In the last decade companies have been collecting",
+          "link": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
+          "publishedOn": "2024-02-21T15:02:00.000Z",
+          "wordCount": 997,
+          "title": "Azure AI Fundamentals Certification (AI-900) 2024 UPDATE – Pass the Exam With This Free 4 Hour Course",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/aifund.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-typescript-type-aliases-work/",
+          "author": "Sahil Mahapatra",
+          "description": "One of TypeScript's powerful features is type aliases, which allow developers to create custom names for types, enhancing code readability and maintainability. In this article, we'll explore TypeScript type aliases through examples. Table of Contents  * TypeScript Type Aliases  * Examples  * Conclusion What are Type Aliases",
+          "link": "https://www.freecodecamp.org/news/how-typescript-type-aliases-work/",
+          "publishedOn": "2024-02-21T14:14:40.000Z",
+          "wordCount": 1293,
+          "title": "How Type Aliases work in TypeScript – Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post-1--2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-nvm-in-react-projects/",
+          "author": "Matéush",
+          "description": "In this guide,  you'll learn how to effectively manage multiple Node versions for different projects using Node Version Manager (NVM). Whether you're developing React, Angular, Vue.js, or Node applications, you can always use NVM to set up the project and tailor it down to a specific Node version. Prerequisites Before",
+          "link": "https://www.freecodecamp.org/news/how-to-use-nvm-in-react-projects/",
+          "publishedOn": "2024-02-21T13:51:21.000Z",
+          "wordCount": 1464,
+          "title": "How To Use Node Version Manager In Your React Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/React---NVM.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/debug-coding-problems-in-your-projects/",
+          "author": "Chris Blakely",
+          "description": "Ah, the joy of coding! There you are, cruising through your project, when suddenly – bam! – you hit a bug. It's like hitting a wall in a maze. But fear not, fellow coder, for I bring you the trusty map to navigate the treacherous bug-infested waters of programming. Whether",
+          "link": "https://www.freecodecamp.org/news/debug-coding-problems-in-your-projects/",
+          "publishedOn": "2024-02-20T21:47:09.000Z",
+          "wordCount": 2100,
+          "title": "How to Debug Coding Problems When Building Your Own Projects",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/DALL-E-2024-02-20-10.43.02---Create-a-landscape-oriented--cute-image-of-a-cartoon-bug-with-big--friendly-eyes--walking-over-a-background-that-resembles-computer-code.-The-bug-shou.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/",
+          "author": "Benjamin Semah",
+          "description": "In modern web development, having a way to persist data helps developers improve performance and create a better user experience. And using local storage is an effective way of persisting data in an application. In this article, you will learn what local storage is and how to use it in",
+          "link": "https://www.freecodecamp.org/news/use-local-storage-in-modern-applications/",
+          "publishedOn": "2024-02-20T21:37:46.000Z",
+          "wordCount": 2326,
+          "title": "How to Use LocalStorage in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/JavaScript-localStorage-freeCodeCamp-Benjamin-Semah.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/basic-typescript-types/",
+          "author": "Sahil Mahapatra",
+          "description": "TypeScript is a superset of JavaScript that introduces static typing to JavaScript. TypeScript's enhanced type safety and code maintainability empower developers to write code more confidently. A fundamental aspect of TypeScript's static typing system is its support for basic types. These provide a foundation for defining the shape and behavior",
+          "link": "https://www.freecodecamp.org/news/basic-typescript-types/",
+          "publishedOn": "2024-02-20T21:05:51.000Z",
+          "wordCount": 1598,
+          "title": "How Types Work in TypeScript – Explained with JavaScript + TypeScript Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Copy-of-Neon-Green-Bold-Quote-Motivational-Tweet-Instagram-Post.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-python-basics/",
           "author": "chepkirui dorothy",
