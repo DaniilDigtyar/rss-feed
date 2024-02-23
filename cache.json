@@ -18,6 +18,21 @@
       "siteUrl": "https://www.smashingmagazine.com/",
       "articles": [
         {
+          "id": "https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
+          "author": "hello@smashingmagazine.com (Frederik Dohr)",
+          "description": "It’s well-established that the web faces wide-ranging usability and performance issues, from user-hostile UI patterns and twisted search results to sluggish performance and battery-draining bloat. In this article, Frederik examines one small-but-significant aspect where developers take the reins: Painting pixels on the screen.",
+          "link": "https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/",
+          "publishedOn": "2024-02-22T18:00:00.000Z",
+          "wordCount": 4870,
+          "title": "Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/vanilla-javascript-libraries-quest-stateful-dom-rendering/vanilla-javascript-libraries-quest-stateful-dom-rendering.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/vanilla-javascript-libraries-quest-stateful-dom-rendering/vanilla-javascript-libraries-quest-stateful-dom-rendering.jpg"
+        },
+        {
           "id": "https://smashingmagazine.com/2024/02/designing-for-colorblindness/",
           "author": "hello@smashingmagazine.com (Vitaly Friedman)",
           "description": "Color accessibility is more than just ticking boxes. Even with good contrast, some color palettes can make interfaces challenging for users. Here are some practical guidelines to ensure more inclusive design for colorblind people. An upcoming part of Smart Interface Design Patterns.",
@@ -219,6 +234,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-the-has-selector-in-css/",
+          "author": "James Charlesworth",
+          "description": "For most of the history of CSS, selectors have been limited to targeting elements based on their parents in the DOM tree. Consider this HTML structure: \n     \nParagraph 1\n       \n     \t\nParagraph 2",
+          "link": "https://www.freecodecamp.org/news/how-to-use-the-has-selector-in-css/",
+          "publishedOn": "2024-02-22T14:34:24.000Z",
+          "wordCount": 1096,
+          "title": "How to Use the :has() Selector in CSS",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/pexels-alizee-marchand-947457.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-use-full-screen-api-in-js/",
+          "author": "Hunor Márton Borbély",
+          "description": "How do you run a game created for the web in fullscreen? In this quick tutorial, you'll see how to display a game or any other HTML element in fullscreen, how to exit fullscreen, and how to make a nice fullscreen toggle button in SVG. Recently I published a long",
+          "link": "https://www.freecodecamp.org/news/how-use-full-screen-api-in-js/",
+          "publishedOn": "2024-02-22T14:17:32.000Z",
+          "wordCount": 2231,
+          "title": "How to use the Fullscreen API in JavaScript",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Untitled.022.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-map-and-set-objects-explained/",
+          "author": "Nathan Sebhastian",
+          "description": "Map and Set are two JavaScript data structures you can use to store a collection of values, similar to Objects and Arrays. They are specialized data structures that can help you store and manipulate related values.  In this tutorial, we will see how Map and Set work in detail",
+          "link": "https://www.freecodecamp.org/news/javascript-map-and-set-objects-explained/",
+          "publishedOn": "2024-02-21T21:39:50.000Z",
+          "wordCount": 2388,
+          "title": "How to Use the JavaScript Map and Set Objects – Explained with Code Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/javascript-mat-and-set-objects-introduction.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/azure-data-fundamentals-certification-ai-900-pass-the-exam-with-this-free-4-hour-course/",
           "author": "Andrew Brown",
