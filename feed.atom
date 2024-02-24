@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DaniilDigtyar.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-23T01:09:24.735Z</updated>
+    <updated>2024-02-24T01:07:09.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://DaniilDigtyar.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://DaniilDigtyar.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Configure Google Workspace Addon For Tier 2 CASA Security Assessment – Step by Step Guide]]></title>
+        <id>https://www.freecodecamp.org/news/tier-casa-security-assessment/</id>
+        <link href="https://www.freecodecamp.org/news/tier-casa-security-assessment/"/>
+        <updated>2024-02-23T16:43:39.000Z</updated>
+        <summary type="html"><![CDATA[As part of the Google CASA process [https://appdefensealliance.dev/casa], developers can run static analysis on their application’s source code using an inline integration with OpenText’s Fortify Source Code Analyzer (SCA) via the CASA portal. Naturally, I had to prepare my source code as per instruction. In this article, I will share]]></summary>
+        <author>
+            <name>Nibesh Khadka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podcast: What it's like working at ChatGPT Creator Open AI. My Interview with Logan Kilpatrick]]></title>
+        <id>https://www.freecodecamp.org/news/podcast-chatgpt-open-ai-logan-kilpatrick/</id>
+        <link href="https://www.freecodecamp.org/news/podcast-chatgpt-open-ai-logan-kilpatrick/"/>
+        <updated>2024-02-23T16:18:47.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Logan Kilpatric, a software engineer and ChatGPT creator Open AI's first-ever Developer Advocate hire. The week Logan started, ChatGPT hit 100 million users. During our conversation, Logan shares his journey from Illinois to Harvard, NASA, and now the world's most-watched tech]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript Fetch API For Beginners – Explained With Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/javascript-fetch-api-for-beginners/"/>
+        <updated>2024-02-23T12:14:53.000Z</updated>
+        <summary type="html"><![CDATA[The Fetch API is a JavaScript function that you can use to send a request to any Web API URL and get a response. In this article, I'm going to show you how to make HTTP requests to external APIs using the JavaScript Fetch API. You're going to learn how]]></summary>
+        <author>
+            <name>Nathan Sebhastian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How TypeScript Interfaces Work – Explained with Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-typescript-interfaces-work/</id>
+        <link href="https://www.freecodecamp.org/news/how-typescript-interfaces-work/"/>
+        <updated>2024-02-23T10:59:53.000Z</updated>
+        <summary type="html"><![CDATA[TypeScript, a superset of JavaScript, has gained widespread adoption among developers due to its ability to provide static typing, enhancing code robustness and maintainability. One of TypeScript's key features is interfaces, which play a pivotal role in defining the shape of objects, enabling type checking and facilitating better code organization.]]></summary>
+        <author>
+            <name>Sahil Mahapatra</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Camera App on the Web – No Plugins Required]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-camera-app-on-the-web/"/>
+        <updated>2024-02-23T00:36:03.000Z</updated>
+        <summary type="html"><![CDATA[Ever had to make a video call right on your browser with Google Meet, Zoom, or any other video chat app? Well, here’s what you might have never thought to ask—how does it work? Well, there are a number of things that make a real-time video chat application fully functional]]></summary>
+        <author>
+            <name>Favour C. Felix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vanilla JavaScript, Libraries, And The Quest For Stateful DOM Rendering]]></title>
         <id>https://smashingmagazine.com/2024/02/vanilla-javascript-libraries-quest-stateful-dom-rendering/</id>
