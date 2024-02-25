@@ -211,21 +211,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/guide-retrieval-augmented-generation-language-models/guide-retrieval-augmented-generation-language-models.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/01/css-blurry-shimmer-effect/",
-          "author": "hello@smashingmagazine.com (Yair Even Or)",
-          "description": "Taking inspiration from shadows, author Yair Even Or creates the same sort of thing, only with a blurring effect in place of the shadow. Read along for a step-by-step explanation of how it comes together using a combination of masks, gradients, and the good ol’ `backdrop-filter` property.",
-          "link": "https://smashingmagazine.com/2024/01/css-blurry-shimmer-effect/",
-          "publishedOn": "2024-01-25T15:00:00.000Z",
-          "wordCount": 4192,
-          "title": "CSS Blurry Shimmer Effect",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-blurry-shimmer-effect/css-blurry-shimmer-effect.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/css-blurry-shimmer-effect/css-blurry-shimmer-effect.jpg"
         }
       ]
     },
