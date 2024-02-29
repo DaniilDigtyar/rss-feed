@@ -211,21 +211,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2024/feb-24-love-myself-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/01/feature-centricity-harming-product/",
-          "author": "hello@smashingmagazine.com (Andy Budd)",
-          "description": "Most product teams commonly adopt a feature-centric mindset, finding them convenient for brainstorming, drafting requirement documents, and integrating into backlogs and ticketing systems. In this article, Andy Budd shows how fixation with features might be holding you back and how making a few small tweaks to your process could make an entire world of difference.",
-          "link": "https://smashingmagazine.com/2024/01/feature-centricity-harming-product/",
-          "publishedOn": "2024-01-29T15:00:00.000Z",
-          "wordCount": 5234,
-          "title": "The Feature Trap: Why Feature Centricity Is Harming Your Product",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/feature-centricity-harming-product/feature-centricity-harming-product.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/feature-centricity-harming-product/feature-centricity-harming-product.jpg"
         }
       ]
     },
@@ -234,6 +219,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/serverless-node-js-tutorial/",
+          "author": "Beau Carnes",
+          "description": "The shift towards serverless architectures is rapidly becoming a pivotal aspect of application development. Even Node.js, which is traditionally used with servers, can be used to build a serverless application. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to develop serverless applications using",
+          "link": "https://www.freecodecamp.org/news/serverless-node-js-tutorial/",
+          "publishedOn": "2024-02-28T20:59:09.000Z",
+          "wordCount": 931,
+          "title": "Serverless Node.js Tutorial",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/sn1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-reusable-react-components/",
+          "author": "Shahan Chowdhury",
+          "description": "What are reusable React components? You can think of them as building blocks. They are independent pieces of code that can be reused throughout your website to save you time and effort. They can be anything from simple buttons to complex forms. Why Use Reusable Components? As your website grows,",
+          "link": "https://www.freecodecamp.org/news/how-to-build-reusable-react-components/",
+          "publishedOn": "2024-02-28T19:05:07.000Z",
+          "wordCount": 1704,
+          "title": "How to Build Reusable React Components",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/Purple-Blue-Modern-Gradient-New-Blog-Post-Emoji-Twitter-Post--1--1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/permissive-and-protective-software-licenses/",
+          "author": "David Clinton",
+          "description": "If you're going to use or work with open source resources, you'll need to understand the fine print on various classes of an open source license. Otherwise, how can you be sure you're not infringing on someone else's rights?  This article will introduce you to the big players and",
+          "link": "https://www.freecodecamp.org/news/permissive-and-protective-software-licenses/",
+          "publishedOn": "2024-02-28T17:07:49.000Z",
+          "wordCount": 2483,
+          "title": "How Do Open Source Licenses Work? Permissive and Protective Software Licenses Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/katerina-pavlyuchkova-FQYCJSqER_0-unsplash.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8/",
+          "author": "Gabriel Tanner",
+          "description": "The Discord API provides you with an easy tool to create and use your own bots and tools.  In this tutorial, you'll learn how you can create a basic music bot and add it to your server. The bot will be able to play, skip, and stop the music,",
+          "link": "https://www.freecodecamp.org/news/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8/",
+          "publishedOn": "2024-02-28T13:00:00.000Z",
+          "wordCount": 4421,
+          "title": "How to Create a Music Bot Using Discord.js – Step-by-Step Tutorial",
+          "imageUrl": "https://cdn-media-1.freecodecamp.org/images/0*rFQhPUqebJY9N4Ue"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-text-summarizer-using-huggingface-transformers/",
+          "author": "Manish Shivanandhan",
+          "description": "In today’s fast-paced world, we’re bombarded with information. It’s like trying to drink water from a fire hose. That's where a text summarizer comes in. Imagine it as a filter that separates the essential bits from the overwhelming flood of words. In this article, I'll walk you through what a",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-text-summarizer-using-huggingface-transformers/",
+          "publishedOn": "2024-02-28T10:13:47.000Z",
+          "wordCount": 1748,
+          "title": "How to Build A Text Summarizer Using Huggingface Transformers",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/summary-1.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/regex-in-javascript/",
           "author": "Samyak Jain",

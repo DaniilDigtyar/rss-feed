@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DaniilDigtyar.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-28T01:09:42.641Z</updated>
+    <updated>2024-02-29T01:09:26.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://DaniilDigtyar.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://DaniilDigtyar.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Serverless Node.js Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/serverless-node-js-tutorial/</id>
+        <link href="https://www.freecodecamp.org/news/serverless-node-js-tutorial/"/>
+        <updated>2024-02-28T20:59:09.000Z</updated>
+        <summary type="html"><![CDATA[The shift towards serverless architectures is rapidly becoming a pivotal aspect of application development. Even Node.js, which is traditionally used with servers, can be used to build a serverless application. We just published a course on the freeCodeCamp.org YouTube channel that will teach you how to develop serverless applications using]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Reusable React Components]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-reusable-react-components/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-reusable-react-components/"/>
+        <updated>2024-02-28T19:05:07.000Z</updated>
+        <summary type="html"><![CDATA[What are reusable React components? You can think of them as building blocks. They are independent pieces of code that can be reused throughout your website to save you time and effort. They can be anything from simple buttons to complex forms. Why Use Reusable Components? As your website grows,]]></summary>
+        <author>
+            <name>Shahan Chowdhury</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Do Open Source Licenses Work? Permissive and Protective Software Licenses Explained]]></title>
+        <id>https://www.freecodecamp.org/news/permissive-and-protective-software-licenses/</id>
+        <link href="https://www.freecodecamp.org/news/permissive-and-protective-software-licenses/"/>
+        <updated>2024-02-28T17:07:49.000Z</updated>
+        <summary type="html"><![CDATA[If you're going to use or work with open source resources, you'll need to understand the fine print on various classes of an open source license. Otherwise, how can you be sure you're not infringing on someone else's rights?  This article will introduce you to the big players and]]></summary>
+        <author>
+            <name>David Clinton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Music Bot Using Discord.js – Step-by-Step Tutorial]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8/"/>
+        <updated>2024-02-28T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Discord API provides you with an easy tool to create and use your own bots and tools.  In this tutorial, you'll learn how you can create a basic music bot and add it to your server. The bot will be able to play, skip, and stop the music,]]></summary>
+        <author>
+            <name>Gabriel Tanner</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build A Text Summarizer Using Huggingface Transformers]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-text-summarizer-using-huggingface-transformers/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-text-summarizer-using-huggingface-transformers/"/>
+        <updated>2024-02-28T10:13:47.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced world, we’re bombarded with information. It’s like trying to drink water from a fire hose. That's where a text summarizer comes in. Imagine it as a filter that separates the essential bits from the overwhelming flood of words. In this article, I'll walk you through what a]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Regular Expressions (RegEx) in JavaScript – A Handbook for Beginners]]></title>
         <id>https://www.freecodecamp.org/news/regex-in-javascript/</id>
@@ -1109,16 +1159,6 @@ Paragraph 2]]></summary>
         <summary type="html"><![CDATA[With February just around the corner, how about a little inspiration boost? We might have one for you: desktop wallpapers created with love by the community for the community. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Feature Trap: Why Feature Centricity Is Harming Your Product]]></title>
-        <id>https://smashingmagazine.com/2024/01/feature-centricity-harming-product/</id>
-        <link href="https://smashingmagazine.com/2024/01/feature-centricity-harming-product/"/>
-        <updated>2024-01-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Most product teams commonly adopt a feature-centric mindset, finding them convenient for brainstorming, drafting requirement documents, and integrating into backlogs and ticketing systems. In this article, Andy Budd shows how fixation with features might be holding you back and how making a few small tweaks to your process could make an entire world of difference.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Andy Budd)</name>
         </author>
     </entry>
 </feed>
