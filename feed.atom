@@ -2,10 +2,110 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DaniilDigtyar.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-02-29T01:09:26.522Z</updated>
+    <updated>2024-03-01T01:16:01.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://DaniilDigtyar.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://DaniilDigtyar.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Methods in Java – Explained with Code Examples]]></title>
+        <id>https://www.freecodecamp.org/news/java-methods/</id>
+        <link href="https://www.freecodecamp.org/news/java-methods/"/>
+        <updated>2024-02-29T20:05:17.000Z</updated>
+        <summary type="html"><![CDATA[Methods are essential for organizing Java projects, encouraging code reuse, and improving overall code structure.  In this article, we will look at what Java methods are and how they work, including their syntax, types, and examples. Here's what we'll cover:  1. What are Java Methods?  2. Types]]></summary>
+        <author>
+            <name>Valentine Gatwiri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Syslog Handbook – How to Collect and Redirect Logs to a Remote Server]]></title>
+        <id>https://www.freecodecamp.org/news/what-is-syslog-handbook/</id>
+        <link href="https://www.freecodecamp.org/news/what-is-syslog-handbook/"/>
+        <updated>2024-02-29T19:40:35.000Z</updated>
+        <summary type="html"><![CDATA[If you're in information technology, you'll likely agree that logging is important. It helps you monitor a system, troubleshoot issues, and generally provides useful feedback about the system’s state. But it’s important to do logging right. In this handbook, I'll explain what the syslog protocol is and how it works.]]></summary>
+        <author>
+            <name>Serhii Orlivskyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Gemini Course for Beginners]]></title>
+        <id>https://www.freecodecamp.org/news/google-gemini-course-for-beginners/</id>
+        <link href="https://www.freecodecamp.org/news/google-gemini-course-for-beginners/"/>
+        <updated>2024-02-29T18:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Google Gemini is a cutting edge AI model that is a competitor of GPT-4.  We just released a course on the freeCodeCamp.org YouTube channel that will help you harness the power of the advanced AI technology. Developed by the popular instructor Ania Kubów, this beginner's course offers a deep]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn Machine Learning in 2024]]></title>
+        <id>https://www.freecodecamp.org/news/learn-machine-learning-in-2024/</id>
+        <link href="https://www.freecodecamp.org/news/learn-machine-learning-in-2024/"/>
+        <updated>2024-02-29T17:38:13.000Z</updated>
+        <summary type="html"><![CDATA[Are you curious about machine learning but don't know where to start? We just published a comprehensive Machine Learning course on the freeCodeCamp.org  that will teach you how to get started in 2024. Whether you're aspiring to become a Data Scientist, a Machine Learning Engineer (MLE), a Product Manager, or]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Mobile Quiz App with React Native, ChatGPT and Supabase]]></title>
+        <id>https://www.freecodecamp.org/news/build-a-mobile-quiz-app/</id>
+        <link href="https://www.freecodecamp.org/news/build-a-mobile-quiz-app/"/>
+        <updated>2024-02-29T17:30:26.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll learn how to build a mobile quiz application that authenticates users, allows them to take tests, and ranks them based on their scores.  The application leverages some of Supabase's features, such as authentication and database storage, to build a secured full-stack mobile application. Additionally, you'll]]></summary>
+        <author>
+            <name>David Asaolu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build A House Price Prediction Model – Linear Regression Explained]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-build-a-house-price-prediction-model/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-build-a-house-price-prediction-model/"/>
+        <updated>2024-02-29T13:25:23.000Z</updated>
+        <summary type="html"><![CDATA[Ever wondered how algorithms predict future house prices, stock market trends, or even your next movie preference? The answer lies in a fundamental yet powerful tool called linear regression.  Don't be fooled by its seemingly simple equation – this article will unveil its magic, empowering you to build and]]></summary>
+        <author>
+            <name>Oluwadamisi Samuel Praise</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Apply Math with Python – Numerical Analysis Explained]]></title>
+        <id>https://www.freecodecamp.org/news/numerical-analysis-explained-how-to-apply-math-with-python/</id>
+        <link href="https://www.freecodecamp.org/news/numerical-analysis-explained-how-to-apply-math-with-python/"/>
+        <updated>2024-02-29T11:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Numerical analysis is the bridge between math and computer science.  Essentially, it is the development of algorithms that approximate solutions that pure math would also solve, but using less computational resources and faster. This field is very important. Because for most solutions in the real world, we only need]]></summary>
+        <author>
+            <name>Tiago Monteiro</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waiting For Spring (March 2024 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/</id>
+        <link href="https://smashingmagazine.com/2024/02/desktop-wallpaper-calendars-march-2024/"/>
+        <updated>2024-02-29T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers is for you. Designed by artists and designers from across the globe, they come in versions with and without a calendar for March 2024. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Access Properties from an Array of Objects in JavaScript]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-access-properties-from-an-array-of-objects-in-javascript/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-access-properties-from-an-array-of-objects-in-javascript/"/>
+        <updated>2024-02-29T00:59:30.000Z</updated>
+        <summary type="html"><![CDATA[When you're working with JavaScript applications, it's common to work with arrays, nested arrays, and an array of objects. But a lot of beginners sometimes struggle with knowing how to access properties from these different data structures. In this article, we will discuss how to access properties from a variety]]></summary>
+        <author>
+            <name>Jessica Wilkins</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Idempotence? Explained with Real-World Examples]]></title>
+        <id>https://www.freecodecamp.org/news/idempotence-explained/</id>
+        <link href="https://www.freecodecamp.org/news/idempotence-explained/"/>
+        <updated>2024-02-29T00:44:58.000Z</updated>
+        <summary type="html"><![CDATA[Idempotence is a property of an operation that ensures that, if the operation is repeated once or more than once, you get the same result. Apply it once or more and the outcome's the same, idempotence is the name. All rhyming aside, idempotence is an important concept often used in]]></summary>
+        <author>
+            <name>Daniel Adetunji</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Serverless Node.js Tutorial]]></title>
         <id>https://www.freecodecamp.org/news/serverless-node-js-tutorial/</id>
@@ -1149,16 +1249,6 @@ Paragraph 2]]></summary>
         <summary type="html"><![CDATA[Eguberrien bueltan, Gabonetan, Torrekuako Tailerrak egingo ditugu Orereta-Errenteriako Torrekuan. Teknologia izango da gaiaren muina, mugikor eta ordenagailuen erabilera, scratch programazioa eta pasahitzak, besteak beste. Abenduaren 26an eta 27an, 10:00etatik 13:00etara bitarte, ‘Scratch programazioa familian’ eskainiko dugu. Tailer honetan, haurrek, pertsona heldu batekin batera, programazioaren hastapenak ikasi ahal izango dituzte. Bertaratzeko, ez da programazioaren inguruko aurre ezagutza berezirik beharko. […]]]></summary>
         <author>
             <name>Silvia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[29 Days Of Inspiration (February 2024 Wallpapers Edition)]]></title>
-        <id>https://smashingmagazine.com/2024/01/desktop-wallpaper-calendars-february-2024/</id>
-        <link href="https://smashingmagazine.com/2024/01/desktop-wallpaper-calendars-february-2024/"/>
-        <updated>2024-01-31T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With February just around the corner, how about a little inspiration boost? We might have one for you: desktop wallpapers created with love by the community for the community. Enjoy!]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
         </author>
     </entry>
 </feed>
