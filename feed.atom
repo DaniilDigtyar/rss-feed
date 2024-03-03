@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DaniilDigtyar.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-02T01:08:21.992Z</updated>
+    <updated>2024-03-03T01:13:42.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://DaniilDigtyar.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://DaniilDigtyar.github.io/rss-feed/feed.atom"/>
@@ -1289,16 +1289,6 @@ Paragraph 2]]></summary>
         <summary type="html"><![CDATA[If you're building applications with React, you should learn how to use some helpful libraries that'll make it easier to add the features you need. For example, to add features like authentication or styling, you'll need to find a good third-party library to handle it. In this comprehensive guide, I'm]]></summary>
         <author>
             <name>Reed Barger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Words Cannot Describe: Designing For AI Beyond Conversational Interfaces]]></title>
-        <id>https://smashingmagazine.com/2024/02/designing-ai-beyond-conversational-interfaces/</id>
-        <link href="https://smashingmagazine.com/2024/02/designing-ai-beyond-conversational-interfaces/"/>
-        <updated>2024-02-02T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As Artificial Intelligence evolves the computing paradigm, designers have an opportunity to craft more intuitive user interfaces. Maximillian Piras examines how the latest AI capabilities can reshape the future of human-computer interaction beyond conversation alone.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Maximillian Piras)</name>
         </author>
     </entry>
 </feed>

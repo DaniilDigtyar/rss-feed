@@ -211,21 +211,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/guide-designing-older-adults/guide-designing-older-adults.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/02/designing-ai-beyond-conversational-interfaces/",
-          "author": "hello@smashingmagazine.com (Maximillian Piras)",
-          "description": "As Artificial Intelligence evolves the computing paradigm, designers have an opportunity to craft more intuitive user interfaces. Maximillian Piras examines how the latest AI capabilities can reshape the future of human-computer interaction beyond conversation alone.",
-          "link": "https://smashingmagazine.com/2024/02/designing-ai-beyond-conversational-interfaces/",
-          "publishedOn": "2024-02-02T13:00:00.000Z",
-          "wordCount": 7597,
-          "title": "When Words Cannot Describe: Designing For AI Beyond Conversational Interfaces",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-ai-beyond-conversational-interfaces/designing-ai-beyond-conversational-interfaces.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-ai-beyond-conversational-interfaces/designing-ai-beyond-conversational-interfaces.jpg"
         }
       ]
     },
