@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DaniilDigtyar.github.io/rss-feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-03-03T01:13:42.138Z</updated>
+    <updated>2024-03-04T01:10:59.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://DaniilDigtyar.github.io/rss-feed/index.html"/>
     <link rel="self" href="https://DaniilDigtyar.github.io/rss-feed/feed.atom"/>
@@ -1269,26 +1269,6 @@ Paragraph 2]]></summary>
         <summary type="html"><![CDATA[React is an open-source JavaScript library that helps you build dynamic user interfaces (UIs). You can use it to build components that represent logically reusable parts of the UI. Because React is open source, anyone can access its source code, inspect it, modify it, and enhance it for their personal]]></summary>
         <author>
             <name>Okoro Emmanuel Nzube</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use OpenTelementry to Trace Node.js Applications]]></title>
-        <id>https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/</id>
-        <link href="https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/"/>
-        <updated>2024-02-03T00:21:14.000Z</updated>
-        <summary type="html"><![CDATA[Observability refers to our ability to "see" and understand what's happening inside a system by looking at its external signals (like logs, metrics, and traces). Observability involves collecting and analyzing data from sources within a system to monitor its performance and address problems effectively. Why is Observability Useful?  1.]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React Libraries to Use in Your Projects in 2024]]></title>
-        <id>https://www.freecodecamp.org/news/react-libraries-to-use-in-your-projects/</id>
-        <link href="https://www.freecodecamp.org/news/react-libraries-to-use-in-your-projects/"/>
-        <updated>2024-02-02T18:42:15.000Z</updated>
-        <summary type="html"><![CDATA[If you're building applications with React, you should learn how to use some helpful libraries that'll make it easier to add the features you need. For example, to add features like authentication or styling, you'll need to find a good third-party library to handle it. In this comprehensive guide, I'm]]></summary>
-        <author>
-            <name>Reed Barger</name>
         </author>
     </entry>
 </feed>

@@ -1338,26 +1338,6 @@
           "wordCount": 1819,
           "title": "How to Install React – A Step-by-Step Guide",
           "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/solid-navy-blue-concrete-textured-wall.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/",
-          "author": "Abraham Dahunsi",
-          "description": "Observability refers to our ability to \"see\" and understand what's happening inside a system by looking at its external signals (like logs, metrics, and traces). Observability involves collecting and analyzing data from sources within a system to monitor its performance and address problems effectively. Why is Observability Useful?  1.",
-          "link": "https://www.freecodecamp.org/news/how-to-use-opentelementry-to-trace-node-js-applications/",
-          "publishedOn": "2024-02-03T00:21:14.000Z",
-          "wordCount": 2500,
-          "title": "How to Use OpenTelementry to Trace Node.js Applications",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/01/feature-image-1.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-libraries-to-use-in-your-projects/",
-          "author": "Reed Barger",
-          "description": "If you're building applications with React, you should learn how to use some helpful libraries that'll make it easier to add the features you need. For example, to add features like authentication or styling, you'll need to find a good third-party library to handle it. In this comprehensive guide, I'm",
-          "link": "https://www.freecodecamp.org/news/react-libraries-to-use-in-your-projects/",
-          "publishedOn": "2024-02-02T18:42:15.000Z",
-          "wordCount": 2778,
-          "title": "React Libraries to Use in Your Projects in 2024",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2024/02/react-libraries-2024.png"
         }
       ]
     },
